@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/imad-el-maftouhi/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ImadElMaftouhi" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://stackexchange.com/users/32754915/imad-el-maftouhi" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/StackExchange-F58025?style=for-the-badge&logo=stackexchange&logoColor=white" />
   </a>
