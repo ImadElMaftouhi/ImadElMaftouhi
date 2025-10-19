@@ -68,9 +68,9 @@ Hi, my name is @ImadElMaftouhi, I'm currently studying to get my master's in Art
 <h2>📬 Get in Touch</h2>
 <ul>
   <li>📍 Tangier, Morocco</li>
-  <li>📧 <a href="mailto:imad.elmaft.wrk@gmail.com" style="text-decoration: none;">imad.elmaft.wrk@gmail.com</a></li>
-  <li>💼 <a href="https://www.linkedin.com/in/imad-el-maftouhi/" style="text-decoration: none;">LinkedIn Profile</a></li>
-  <li>💻 <a href="https://github.com/ImadElMaftouhi" style="text-decoration: none;">GitHub Portfolio</a></li>
+  <li><a href="mailto:imad.elmaft.wrk@gmail.com" style="text-decoration: none;">imad.elmaft.wrk@gmail.com</a></li>
+  <li><a href="https://www.linkedin.com/in/imad-el-maftouhi/" style="text-decoration: none;">LinkedIn Profile</a></li>
+  <li><a href="https://huggingface.co/Imad404" style="text-decoration:none;">HuggingFace Profile</a></li>
 </ul>
 
 <hr/>
