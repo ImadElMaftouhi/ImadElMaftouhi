@@ -1,5 +1,5 @@
 <h1 align="center">🍂 Imad El Maftouhi</h1>
-<h3 align="center">Data Engineer | Aspiring AI Solutions Developper | Cloud & Distributed Systems Enthusiast</h3>
+<h3 align="center">AI & Data Engineer | Cloud & Distributed Systems Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:imad.elmaft.wrk@gmail.com" style="text-decoration: none;">
